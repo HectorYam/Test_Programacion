@@ -1,0 +1,15 @@
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\bin\Debug\net6.0\Buscar_Palabra_Matriz.exe
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\bin\Debug\net6.0\Buscar_Palabra_Matriz.deps.json
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\bin\Debug\net6.0\Buscar_Palabra_Matriz.runtimeconfig.json
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\bin\Debug\net6.0\Buscar_Palabra_Matriz.dll
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\bin\Debug\net6.0\Buscar_Palabra_Matriz.pdb
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.csproj.AssemblyReference.cache
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.AssemblyInfoInputs.cache
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.AssemblyInfo.cs
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.dll
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\refint\Buscar_Palabra_Matriz.dll
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.pdb
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\Buscar_Palabra_Matriz.genruntimeconfig.cache
+C:\Users\HectorYam117\source\repos\Buscar_Palabra_Matriz\Buscar_Palabra_Matriz\obj\Debug\net6.0\ref\Buscar_Palabra_Matriz.dll

@@ -1,0 +1,15 @@
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\bin\Debug\net6.0\Subconjunto_lista.exe
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\bin\Debug\net6.0\Subconjunto_lista.deps.json
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\bin\Debug\net6.0\Subconjunto_lista.runtimeconfig.json
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\bin\Debug\net6.0\Subconjunto_lista.dll
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\bin\Debug\net6.0\Subconjunto_lista.pdb
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.csproj.AssemblyReference.cache
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.AssemblyInfoInputs.cache
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.AssemblyInfo.cs
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.csproj.CoreCompileInputs.cache
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.dll
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\refint\Subconjunto_lista.dll
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.pdb
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\Subconjunto_lista.genruntimeconfig.cache
+C:\Users\HectorYam117\source\repos\Subconjunto_lista\Subconjunto_lista\obj\Debug\net6.0\ref\Subconjunto_lista.dll
